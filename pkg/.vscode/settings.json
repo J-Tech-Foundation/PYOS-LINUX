@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "/home/jtechmaster02/s.db",
+            "dialect": "SQLite",
+            "isActive": true,
+            "isConnected": true,
+            "name": "eh woi"
+        }
+    ]
+}

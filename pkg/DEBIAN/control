@@ -1,0 +1,9 @@
+Package: XENT
+Version: 1.0
+Section: custom
+Priority: optional
+Architecture: all
+Essential: no
+Installed-Size: 4096
+Maintainer: JT Nexus Foundation
+Description: Xen Text Programming language
